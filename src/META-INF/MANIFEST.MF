@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Class-Path: Libs/ProcessingManagerInterfaces.jar Libs/Ij/ij.jar Libs/b
+ ioformats_package_5_1_10.jar Libs/Icy/icy.jar Libs/Icy/plugins/adufou
+ r/blocks/Blocks.jar Libs/Icy/plugins/adufour/ezplug/EzPlug.jar Libs/m
+ pi.jar Libs/json-20160810.jar Libs/json-simple-1.1.1.jar Libs/Icy/plu
+ gins/adufour/workbooks/Workbooks.jar Libs/Icy/plugins/adufour/roi/ROI
+ Measures.jar Libs/Icy/plugins/adufour/quickhull/QuickHull.jar Libs/commons-cli-1.3.1.jar Libs/commons-math3-3.6.1.jar
+Main-Class: de.c3e.ProcessManager.Main
+
